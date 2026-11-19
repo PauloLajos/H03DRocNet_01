@@ -1,0 +1,7 @@
+{
+  "name": "h0_common",
+  "version": "0.1.0",
+  "description": "H0 vasút közös kód: debug makrók, BLE protokoll",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}

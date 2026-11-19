@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "esp32_u32"
+		},
+		{
+			"name": "esp32_c3_supermini",
+			"path": "esp32_c3_supermini"
+		},
+		{
+			"path": "lib"
+		}
+	],
+	"settings": {}
+}
